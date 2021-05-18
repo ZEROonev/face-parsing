@@ -12,3 +12,5 @@ other reference:
 - https://github.com/switchablenorms/CelebAMask-HQ
 - https://github.com/hhj1897/roi_tanh_warping
 - https://github.com/aod321/STN-iCNN
+- https://github.com/WangWenhao0716/Adapted-Center-and-Scale-Prediction
+- https://github.com/liuwei16/CSP
