@@ -2,7 +2,7 @@
 Face parsing, 
 
 in the facial semantic segmentation task. in https://cvmart.net/race/9962/base?en
-
+ranked in 29
 the architecture inspired by CSP which is an anchor-free pedestrian dectetion method
 backbone apply the resnet50 and resnest50 
 
